@@ -1,7 +1,7 @@
 # Phát hiện Fake News với Python
 <ul>
     <li>
-        Tập dữ liệu: <a href="https://drive.google.com/file/d/1-dnjSh1THKug6h86j2u9b6d0tq3BhQM7/view">news.csv</a>
+        Tập dữ liệu: <a href="https://drive.google.com/file/d/1AtJ7j_Fpl3llu0vbfsezPrpxHgFilofN/view">news.csv</a>
     </li>
     <li>
         Tham khảo:  <a href="https://tek4.vn/phat-hien-fake-news-voi-python-machine-learning-project">TEK4.VN</a>, 
