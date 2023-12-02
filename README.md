@@ -8,4 +8,10 @@
                     <a href="https://ichi.pro/vi/phat-hien-tin-gia-voi-python-va-machine-learning-272146875193862">ICHI.PRO</a>, 
                     <a href="https://123docz.net/document/12239149-phat-hien-tin-gia-voi-python-va-machine-learning.htm">123DOCZ.NET</a>
     </li>
+    <li>
+        Các thành viên: <a href="https://github.com/bdt1301">Phú</a>, 
+                    <a href="https://github.com/NDP16">Phong</a>, 
+                    <a href="https://github.com/NguyenTam-Wesley">Tâm</a>,
+                    <a href="https://github.com/TXThangShou">Thắng</a>
+    </li>
 </ul>
