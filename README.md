@@ -9,9 +9,9 @@
                     <a href="https://123docz.net/document/12239149-phat-hien-tin-gia-voi-python-va-machine-learning.htm">123DOCZ.NET</a>
     </li>
     <li>
-        Các thành viên: <a href="https://github.com/bdt1301">Phú</a>, 
-                    <a href="https://github.com/NDP16">Phong</a>, 
-                    <a href="https://github.com/NguyenTam-Wesley">Tâm</a>,
-                    <a href="https://github.com/TXThangShou">Thắng</a>
+        Các thành viên: <a href="https://github.com/bdt1301">PHÚ (LEADER)</a>, 
+                    <a href="https://github.com/NDP16">PHONG</a>, 
+                    <a href="https://github.com/NguyenTam-Wesley">TÂM</a>, 
+                    <a href="https://github.com/TXThangShou">THẮNG</a>
     </li>
 </ul>
